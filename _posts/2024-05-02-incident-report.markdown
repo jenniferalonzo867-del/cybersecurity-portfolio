@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-title: Incident Report "Coming Soon"
+title: Incident Report
 img: incident.png
 alt: image-alt
 
