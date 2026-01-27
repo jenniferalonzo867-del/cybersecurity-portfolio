@@ -1,4 +1,4 @@
-
+---
 layout: default
 modal-id: 5
 title: Incident Handlers Journal
